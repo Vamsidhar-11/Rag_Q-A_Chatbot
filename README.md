@@ -2,7 +2,6 @@
 
 A simple yet powerful Streamlit web application that allows you to chat with any blog post or website. This app uses a Retrieval-Augmented Generation (RAG) pipeline to understand the content of a provided URL and answer your questions about it.
 
-![Blog Q&A Chatbot Demo](https://i.imgur.com/vHqj5gP.gif)
 
 ---
 
