@@ -1,0 +1,10 @@
+ipykernel
+dotenv
+langchain
+langchain_community
+langchain_core
+bs4
+langchain_chroma
+langchain_text_splitters
+langchain_huggingface
+sentence-transformers
